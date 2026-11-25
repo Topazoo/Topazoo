@@ -21,7 +21,7 @@ That work reaches from the enrollment UI down to network settlement feeds. The c
 
 ### <img src="assets/icons/history.svg" width="26" height="26" align="absmiddle" alt=""> Before Astrada
 
-Previously, I was a Staff Software Engineer at Imprint and Marqeta. At Imprint, I worked on credit card issuance and ledgers, including deferred-interest programs and an authorization-risk integration. At Marqeta, I worked on the card processing engine and led network certifications, including TR-31 PIN-encryption upgrades and fallback transaction routing.
+Previously, I was a Staff Software Engineer at Imprint and Marqeta.
 
 The implementation lives in private repositories. Outside work, I build apps and experiment with local coding models.
 
