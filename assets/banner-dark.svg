@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-labelledby="title desc"><title id="title">Peter Swanson</title><desc id="desc">Peter Swanson. Original topaz motif on a dark background.</desc><defs>
+  <radialGradient id="amber-haze"><stop stop-color="#ffc16e" stop-opacity=".055"/><stop offset="1" stop-color="#ffc16e" stop-opacity="0"/></radialGradient>
+  <linearGradient id="facet-glint" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#ffc16e" stop-opacity="0"/><stop offset=".55" stop-color="#fff3d6" stop-opacity=".8"/><stop offset="1" stop-color="#ffc16e" stop-opacity="0"/></linearGradient>
+</defs>
+<style>
+  .facet-glint{opacity:0;stroke-dasharray:28 240;animation:facet-pass 14s linear infinite}
+  @keyframes facet-pass{0%,72%{opacity:0;stroke-dashoffset:50}76%{opacity:.65}88%{opacity:0;stroke-dashoffset:-180}100%{opacity:0;stroke-dashoffset:-180}}
+  @media(prefers-reduced-motion:reduce){.facet-glint{animation:none;opacity:0}}
+</style>
+<rect width="1200" height="220" rx="18" fill="#151c24"/><ellipse cx="970" cy="110" rx="235" ry="170" fill="url(#amber-haze)"/><g font-family="Arial, sans-serif"><text x="50" y="116" fill="#f4f0e7" font-size="64" font-weight="700">Peter Swanson</text><text x="54" y="166" fill="#ffc16e" font-size="29">@Topazoo</text></g><g transform="translate(0,-40)" stroke="#ffc16e" stroke-width="2" fill="none"><path d="M890 150 970 65 1050 150 970 235Z"/><path d="M890 150H1050M970 65 940 150 970 235 1000 150Z"/><path d="M1050 150H1125V85M890 150H830V225"/><path class="facet-glint" d="M890 150 970 65 1050 150" stroke="url(#facet-glint)" stroke-width="3" stroke-linecap="round"/><circle cx="1125" cy="80" r="6" fill="#ffc16e"/><circle cx="830" cy="230" r="6" fill="#ffc16e"/></g></svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="66" viewBox="0 0 1200 66" role="img" aria-labelledby="title"><title id="title">Topaz footer ornament</title>
+<style>.glint{opacity:0;stroke-dasharray:24 1200;animation:sweep 18s linear infinite}@keyframes sweep{0%,68%{opacity:0;stroke-dashoffset:30}72%{opacity:.65}90%,100%{opacity:0;stroke-dashoffset:-1160}}@media(prefers-reduced-motion:reduce){.glint{animation:none;opacity:0}}</style>
+<g fill="none" stroke="#a77d49" stroke-width="1"><path d="M0 33h571M629 33h571" opacity=".4"/><path d="M584 33l16-17 16 17-16 17zM584 33h32M600 16l-6 17 6 17 6-17z" opacity=".8"/></g>
+<path aria-hidden="true" class="glint" d="M0 33h571M629 33h571" fill="none" stroke="#ffc16e" stroke-width="2" stroke-linecap="round"/>
+</svg>
