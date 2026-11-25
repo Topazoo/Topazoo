@@ -40,8 +40,8 @@ I also work on **[Tiles](https://cowbrickgames.com/tiles)** with Cowbrick Games.
 I’m working on running models that are much larger than GPU memory, using [llama.cpp](https://github.com/ggml-org/llama.cpp) and [Strata](https://github.com/Niko1221/Strata).
 
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/inference-machine-mobile.svg">
-  <img src="assets/inference-machine.svg" alt="My local inference machine: RTX 4070 SUPER with 12 GB VRAM, 64 GB RAM, Intel i9-14900K, and NVMe storage; running llama.cpp and Strata." width="100%">
+  <source media="(max-width: 600px)" srcset="assets/inference-performance-mobile.svg">
+  <img src="assets/inference-performance.svg" alt="My local inference machine: RTX 4070 SUPER with 12 GB VRAM, 64 GB RAM, Intel i9-14900K, and NVMe storage; running llama.cpp and Strata." width="100%">
 </picture>
 
 #### The setup
