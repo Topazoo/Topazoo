@@ -23,8 +23,6 @@ That work reaches from the enrollment UI down to network settlement feeds. The c
 
 Previously, I was a Staff Software Engineer at Imprint and Marqeta.
 
-The implementation lives in private repositories. Outside work, I build apps and experiment with local coding models.
-
 ## <picture><source media="(max-width: 600px)" srcset="assets/sections/projects-mobile.svg"><img src="assets/sections/projects.svg" alt="Personal projects" width="100%"></picture>
 
 ### <img src="assets/icons/tiles.svg" width="26" height="26" align="absmiddle" alt=""> Tiles — daily logic puzzles
