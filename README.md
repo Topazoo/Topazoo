@@ -46,7 +46,7 @@ I’m working on running models that are much larger than GPU memory, using [lla
 
 #### The setup
 
-My desktop has an **i9-14900K, 64 GB RAM, and an RTX 4070 SUPER with 12 GB VRAM**, with NVMe storage for weights that don’t fit in memory. Claude Code is the client for the coding worker.
+I use Claude Code as the client for my local coding worker. The larger-model experiments below use a fixed question set, so I can compare answer quality alongside generation speed.
 
 #### Engine and cache work
 
